@@ -1,0 +1,47 @@
+nav a{
+    background-color:rgb(15, 23, 42);
+    text-align: left;
+    padding: 05px;
+    color:white;
+    text-decoration: none;
+}
+.profile{
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+h2{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+.blank{
+    text-decoration: none;
+}
+.nv{
+    border-color: black;
+}
+body{
+    background-color: beige;
+    font-size: 20px;
+    font-style: italic;
+}
+nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+footer{
+    text-align: center;
+}
+html{
+    scroll-behavior: smooth;
+}
